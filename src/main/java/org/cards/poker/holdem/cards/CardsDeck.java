@@ -41,6 +41,19 @@ public class CardsDeck {
         cards.add(new Card(Rank.Rank_King, Suits.Clubs));
         cards.add(new Card(Rank.Rank_Jack, Suits.Clubs));
         cards.add(new Card(Rank.Rank_Queen, Suits.Clubs));
+        cards.add(new Card(Rank.Rank_10, Suits.Spades));
+        cards.add(new Card(Rank.Rank_2, Suits.Spades));
+        cards.add(new Card(Rank.Rank_3, Suits.Spades));
+        cards.add(new Card(Rank.Rank_4, Suits.Spades));
+        cards.add(new Card(Rank.Rank_5, Suits.Spades));
+        cards.add(new Card(Rank.Rank_6, Suits.Spades));
+        cards.add(new Card(Rank.Rank_7, Suits.Spades));
+        cards.add(new Card(Rank.Rank_8, Suits.Spades));
+        cards.add(new Card(Rank.Rank_9, Suits.Spades));
+        cards.add(new Card(Rank.Rank_Ace, Suits.Spades));
+        cards.add(new Card(Rank.Rank_King, Suits.Spades));
+        cards.add(new Card(Rank.Rank_Jack, Suits.Spades));
+        cards.add(new Card(Rank.Rank_Queen, Suits.Spades));
 
         //TODO
     }
