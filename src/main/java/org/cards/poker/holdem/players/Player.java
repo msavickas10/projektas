@@ -1,13 +1,14 @@
 package org.cards.poker.holdem.players;
 
 public class Player {
-    public void SeeCards() {
-
-
-
-
+    public Player() {
     }
 
 
 
-}
+    public void getCards(int){
+        getCards();
+
+    }
+
+
