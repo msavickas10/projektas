@@ -32,7 +32,7 @@ public class Game {
         deck.takeOne();
 
 
-        players.get(0).
+
 
     }
 
